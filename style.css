@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: aqua;
+}
+
+nav{
+
+}
+
+nav ul {
+
+}
+
+nav ul li{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding-left: 10px;
+    
+}
+
+nav ul li a:hover {
+    color: yellow;
+}
+
+
+#man {
+    padding-left: 50px;
+
+}
+
+#man h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#man p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#man img {
+    border: solid yellow;
+    width: 500px;
+    
+}
+
+
+
+#sheep {
+    padding-left: 50px;
+}
+
+#sheep h1 {
+    color: rgb(245, 6, 6);
+    font-size: 100px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+#sheep p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    }
+
+#sheep img{
+    border: dotted green;
+    width: 500px;
+}
+
+#number {
+    padding-left: 50px;
+}
+
+#number h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#number p {
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+#number img{
+    border: pink solid;
+    height: 600px;
+}
+
+
+iframe {
+    padding-top: 1000px;
+    width: 100%;
+    height: 1000px;
+}
